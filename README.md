@@ -14,7 +14,7 @@ Uses the unofficial JustWatch api to get streaming options.
 
 <img src="./images/screenshot1.png" alt="Search Page">
 
-<img src="" alt="Movie Page">
+<img src="./images/screenshot2.png" alt="Movie Page">
 
 <h2>Installation and Setup Instructions</h2>
 
