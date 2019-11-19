@@ -12,7 +12,7 @@ Uses the unofficial JustWatch api to get streaming options.
 
 <h2>Project Screen Shots</h2>
 
-<img src="../images/screenshot1.png" alt="Search Page">
+<img src="./images/screenshot1.png" alt="Search Page">
 
 <img src="" alt="Movie Page">
 
