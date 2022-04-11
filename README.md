@@ -1,5 +1,7 @@
 <h1>Streaming Movie Search Database</h1>
 
+Just a quick test trying out REACT
+
 This site allows you to search for any movie, and shows you which streaming
 websites offer the movie on their platoform, with a direct link to the movie
 on the chosen streaming site.
